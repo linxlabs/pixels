@@ -1,0 +1,1 @@
+import{u as e}from"./CJbUupEe.js";import{_ as t,v as o,t as s,x as n}from"./3saTICxt.js";const r={setup(){return{store:e()}},mounted(){}},a=n("p",null,"This page will be displayed at the / route.",-1),c=[a];function i(p,_,u,d,l,f){return s(),o("section",null,c)}const x=t(r,[["render",i]]);export{x as default};

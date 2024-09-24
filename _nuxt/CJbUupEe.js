@@ -1,0 +1,1 @@
+import{bn as e}from"./3saTICxt.js";const t=e("store",{state:()=>({btBtnText:"Connect",btIcon:"mdi-bluetooth",btStat:!1,btAvailable:!1,apName:"",config:{ssidPrim:null,pwPrim:null,ssidSec:null,pwSec:null,stAddr:null,stUni:null,mode:null,pixels:null},drawer:!1,items:[{title:"Home",value:"/"},{title:"Configuration",value:"/config"}]})});export{t as u};
