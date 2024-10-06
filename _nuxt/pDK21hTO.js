@@ -1,1 +1,0 @@
-import{u as t}from"./7097uLht.js";import{_ as o,v as s,x as r,t as n}from"./DY338Vvd.js";const a={setup(){return{store:t()}},mounted(){}};function p(u,e,i,l,c,d){return n(),s("section",null,e[0]||(e[0]=[r("p",null,"This page will be displayed at the / route.",-1)]))}const _=o(a,[["render",p]]);export{_ as default};
